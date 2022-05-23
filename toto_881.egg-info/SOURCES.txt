@@ -1,0 +1,11 @@
+setup.py
+scripts/toto_881-run
+tests/__init__.py
+tests/lib_test.py
+toto_881/__init__.py
+toto_881/lib.py
+toto_881.egg-info/PKG-INFO
+toto_881.egg-info/SOURCES.txt
+toto_881.egg-info/dependency_links.txt
+toto_881.egg-info/requires.txt
+toto_881.egg-info/top_level.txt
